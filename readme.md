@@ -25,8 +25,5 @@ This Python script generates secure passwords of a user-defined length using a g
 
 sample images of wroking-
 1-![Screenshot (304)](https://github.com/user-attachments/assets/0852a483-f3d9-4fb7-9ecc-58d6a06fbd6d)
-
-2-![Screenshot (302)](https://github.com/user-attachments/assets/a3e7201e-3f03-410f-bfdc-1a9ceda91d96)
-
-3-![Screenshot (303)](https://github.com/user-attachments/assets/b3a8c2c3-8b44-47d8-8308-a978e9a3e3f0)
+2-![Screenshot (303)](https://github.com/user-attachments/assets/b3a8c2c3-8b44-47d8-8308-a978e9a3e3f0)
 
